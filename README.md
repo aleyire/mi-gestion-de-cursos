@@ -8,12 +8,6 @@ En este desafío se crea una API REST con Express y el paquete pg para servir el
 - POST (CREATE) & GET(READ)
 - PUT (UPDATE) & DELETE (DELETE)
 
-### Instalaciones
-
-- `npm init`
-- `npm i express`
-- `npm i pg`
-
 ### Visualización
 
-![]()
+![](https://github.com/aleyire/mi-gestion-de-cursos/blob/main/img/preview.png)
